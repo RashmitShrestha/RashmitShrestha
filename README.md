@@ -4,7 +4,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rashura&label=Profile%20views&color=0e75b6&style=flat" alt="rashura" /> </p>
 
 <h3 align="left">Connect with me:</h3>
-[Link to LinkedIn](https://www.linkedin.com/in/rashmit-shrestha-b197b2192/)
+
+<a href="https://www.linkedin.com/in/rashmit-shrestha-b197b2192/">Link to LinkedIn</a>
 
 <h3 align="left">What I'm Working On:</h3>
 <ul>
